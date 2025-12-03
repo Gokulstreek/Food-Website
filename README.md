@@ -1,16 +1,26 @@
-# React + Vite
+ Food Ordering Website / App (React JS)
+This project is a step-by-step React JS food ordering application designed to showcase modern frontend development practices. The app provides a smooth and intuitive user experience for browsing food items, managing a cart, placing orders, and handling authentication through a Sign In / Sign Up popup.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ Features
+• 	Home Page (Menu Display):
+• 	Displays a list of food items with images, names, categories, and prices.
+• 	Includes search and filter functionality for easy navigation.
+• 	Responsive grid layout for desktop and mobile views.
+• 	Cart Page:
+• 	Add, remove, and update quantities of selected food items.
+• 	Dynamic price calculation including subtotal, tax, and delivery charges.
+• 	Clear cart option and navigation to the order page.
+• 	Order Page:
+• 	Collects delivery details such as name, phone, and address.
+• 	Allows users to choose payment methods (Cash on Delivery or mock Online Payment).
+• 	Displays final order summary and confirmation message.
+• 	Authentication (Sign In / Sign Up Popup):
+• 	Modal-based popup for user login and registration.
+• 	Sign In with email and password.
+• 	Sign Up with name, email, and password.
+• 	Persistent user session using localStorage.
+🛠️ Tech Stack
+• 	Frontend: React JS, React Router, Context API
+• 	Styling: CSS / Bootstrap (responsive design)
+• 	State Management: Context API + localStorage
+• 	Optional Backend: JSON Server for mock API endpoints
