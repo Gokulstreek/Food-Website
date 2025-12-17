@@ -42,6 +42,3 @@ This project is a step-by-step React JS food ordering application designed to sh
 
 • 	Styling: CSS / Bootstrap (responsive design)
 
-• 	State Management: Context API + localStorage
-
-• 	Optional Backend: JSON Server for mock API endpoints
