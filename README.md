@@ -42,3 +42,5 @@ This project is a step-by-step React JS food ordering application designed to sh
 
 • 	Styling: CSS / Bootstrap (responsive design)
 
+For more see the given link:https://foodparcelpacket.netlify.app/
+
