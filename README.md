@@ -1,1 +1,3 @@
+This is my food website built using forntend Technologies like HTML, CSS, MediaQuery and React js where it consist of multiple pages like view page which consist of many dishes and their variety and functionality of the website goes like this when click a particular food on the top which is palced in the scroll bar the relvant food item will be displayed and this selected item will be added inot the cart where there are details of different select food like and we can add multiple food item using increament and decreament operator and it will be hilighted in the cart this will be stored in the billin page and it will move on to the payment page
+for more view and user experience view it using given link
 https://foodparcelpacket.netlify.app/
